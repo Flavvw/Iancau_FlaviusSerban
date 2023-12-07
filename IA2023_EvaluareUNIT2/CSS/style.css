@@ -1,0 +1,91 @@
+#header {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #919193;
+  font-size: medium;
+  font-weight: normal;
+  font-style: italic;
+  text-align: center;
+  text-decoration: underline;
+  border: 5px solid black;
+  background-color: #202934;
+  padding: 2px;
+  margin: 2px;
+}
+#mail {
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fedc7c;
+  text-align: right;
+  text-decoration: underline;
+}
+#network {
+  background-color: #d4dbe3;
+  border: 3px solid #c9b2da;
+}
+#network h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #6f309d;
+  text-decoration: underline;
+  font-weight: bold;
+}
+#network img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#network ul {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: right;
+  list-style-position: inside;
+}
+#slideshow {
+  font-family: Arial, Helvetica, sans-serif;
+}
+#slideshow h3 {
+  color: #6f309d;
+  text-decoration: underline;
+  font-weight: bold;
+}
+#slideshow {
+  position: relative;
+  overflow: hidden;
+}
+
+.image-container {
+  background-color: #5c778a;
+  display: flex;
+}
+
+.image-container img {
+  width: 33%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+#workstation {
+  font-family: Arial, Helvetica, sans-serif;
+}
+#workstation h3{
+  color: #6f309d;
+  text-decoration: underline;
+  font-weight: bold;
+}
+#workstation table {
+  width: 60%;
+  color: yellow;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #919193;
+  border-collapse: collapse;
+}
+#workstation th,td {
+  border-style: solid;
+  border-width: 3px;
+  border-color: chocolate;  
+}
+#workstation td {
+  width: 15.15%;
+}
+h3 {
+  font-weight: bold;
+}
